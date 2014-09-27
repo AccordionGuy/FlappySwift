@@ -15,6 +15,7 @@
 		4374520B193D163800654986 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4374520A193D163800654986 /* Images.xcassets */; };
 		43745217193D163800654986 /* FlappyBirdTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43745216193D163800654986 /* FlappyBirdTests.swift */; };
 		437A3DBA193D326A00909BA0 /* bird.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 437A3DB9193D326A00909BA0 /* bird.atlas */; };
+		D42AD5BE19D77E030062AF0D /* README.mkd in Resources */ = {isa = PBXBuildFile; fileRef = D42AD5BD19D77E010062AF0D /* README.mkd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		43745215193D163800654986 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43745216193D163800654986 /* FlappyBirdTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlappyBirdTests.swift; sourceTree = "<group>"; };
 		437A3DB9193D326A00909BA0 /* bird.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = bird.atlas; sourceTree = "<group>"; };
+		D42AD5BD19D77E010062AF0D /* README.mkd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.mkd; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				437451FC193D163700654986 /* FlappyBird */,
 				43745213193D163800654986 /* FlappyBirdTests */,
 				437451FB193D163700654986 /* Products */,
+				D42AD5BD19D77E010062AF0D /* README.mkd */,
 			);
 			sourceTree = "<group>";
 		};
@@ -202,6 +205,7 @@
 				43745202193D163700654986 /* GameScene.sks in Resources */,
 				437A3DBA193D326A00909BA0 /* bird.atlas in Resources */,
 				43745209193D163800654986 /* Main.storyboard in Resources */,
+				D42AD5BE19D77E030062AF0D /* README.mkd in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,18 +1,15 @@
 # FlappySwift
 
-An implementation of Flappy Bird in Swift for iOS 8.
-
 ![FlappySwift](http://i.imgur.com/1NLoToU.gif)
 
-# Notes
-
-We're launching a course [Game Programming with Swift](https://fullstackedu.com)
-
-If you are interested in early access to the course, head to [fullstackedu.com](https://www.fullstackedu.com) and _enter in your email in the signup box at the bottom of the page_ to be notified of updates on the course itself.
-
-# Authors
+An implementation of Flappy Bird in Swift for iOS 8, originally written for pre-beta-7 Xcode 6 by:
 
 - Nate Murray - [@eigenjoy](https://twitter.com/eigenjoy)
 - Ari Lerner - [@auser](https://twitter.com/auser)
 - Based on code by [Matthias Gall](http://digitalbreed.com/2014/how-to-build-a-game-like-flappy-bird-with-xcode-and-sprite-kit)
+
+as part of their [Game Programming with Swift](https://fullstackedu.com) course.
+
+With Xcode 6 beta 7 and subsequent versions, the original version stopped working, as Apple changed a number of their APIs, including Sprite Kit, for optional conformance. I explain what happened and how to fix it in [this entry on my tech blog, Global Nerdy](http://www.globalnerdy.com/2014/09/25/why-your-swift-apps-broke-in-xcode-6-beta-7-and-the-gm-versions-and-how-to-fix-them/), and this repo houses FlappySwift with these fixes. Enjoy! 
+
 
